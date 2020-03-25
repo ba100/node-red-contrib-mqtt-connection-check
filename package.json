@@ -24,6 +24,7 @@
       "mqtt-check": "check_mqtt_connection.js"
     }
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {
     "mqtt": "^3.0.0"
   }

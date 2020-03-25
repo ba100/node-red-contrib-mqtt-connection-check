@@ -14,6 +14,11 @@
   ],
   "author": "Bassel Saeed",
   "license": "ISC",
+  "homepage": "https://github.com/ba100/node-red-contrib-mqtt-connection-check.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ba100/node-red-contrib-mqtt-connection-check.git"
+  },
   "node-red": {
     "nodes": {
       "mqtt-check": "check_mqtt_connection.js"

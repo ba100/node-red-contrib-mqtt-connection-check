@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-mqtt-connection-check",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check the connection with an MQTT broker. Returns true in case the connection is successful, false otherwise.",
   "main": "check_mqtt_connection.js",
   "scripts": {},
@@ -24,7 +24,6 @@
       "mqtt-check": "check_mqtt_connection.js"
     }
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {
     "mqtt": "^3.0.0"
   }

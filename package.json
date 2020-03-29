@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-mqtt-connection-check",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Node Red node that checks the connectivity with an MQTT broker. The check result is returned in msg.mqttCheck object.",
   "main": "check_mqtt_connection.js",
   "scripts": {},
